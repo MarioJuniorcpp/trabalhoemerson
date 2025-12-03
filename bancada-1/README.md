@@ -74,6 +74,6 @@ Este projeto implementa um verificador para lógica proposicional e lógica de p
 * Antonio Kássio(),
 * Eduardo Bandeira(https://github.com/devBandas),
 * Hamilton Isaac(),
-* Mario Silva(),
+* Mario Silva(https://github.com/MarioJuniorcpp),
 * Matheus Oliviera (https://github.com/oliveira-prg),
 * Victoria Miranda(https://github.com/ViMirand)
